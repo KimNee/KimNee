@@ -16,14 +16,12 @@ trying to get used to.. <br><br>
 <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF">
 
 <br><br>
-Let me show you, <br>
+Let me show you, <br><br>
 <a href="https://www.notion.so/Kimnee-s-portfolio-8f74054d3c0d4035b2ff653e4e364e2a" target="_blank"><img src="https://img.shields.io/badge/NOTION-E6E6FA?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <a href="https://www.instagram.com/kakooyeochi" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.facebook.com/Kakooyeochi" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-0866FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a>
 <a href="mailto:kakoo3508@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kakoo3508@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FAF0E6"/></a>
 <br><br>
-</center>
-
 
 
 <!--
