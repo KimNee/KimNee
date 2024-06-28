@@ -1,5 +1,5 @@
 ## Hi there 👋
-!['kimnee'](http:///i.imgur.com/V0dEfab.png)
+!['kimnee'](https:///i.imgur.com/V0dEfab.png)
 
 I'm interested in  ' DATA ANALYSIS ', <br><br>
 
