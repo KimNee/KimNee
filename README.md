@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image](https:///i.imgur.com/V0dEfab.png)
+![image](https://i.imgur.com/V0dEfab.png)
 
 I'm interested in  ' DATA ANALYSIS ', <br><br>
 
