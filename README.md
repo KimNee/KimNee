@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm interested in  ' DATA ANALYSIS ', <br><br>
 
+![kimnee](https://i.imgur.com/V0dEfab.png)
+
 CURRENTLY LEARNING about.. <br><br>
 <img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=3776AB">
 <img src="https://img.shields.io/badge/TABLEAU-FAF0E6?style=for-the-badge&logo=tableau&logoColor=E97627">
