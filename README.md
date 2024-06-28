@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="http:///i.imgur.com/V0dEfab.png" width="500" height="100"/>
+<img src="http:///i.imgur.com/V0dEfab.png">
 
 I'm interested in  ' DATA ANALYSIS ', <br><br>
 
