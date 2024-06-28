@@ -1,8 +1,7 @@
 ## Hi there 👋
 ![image](https://i.imgur.com/V0dEfab.png)
 
-I'm interested in  ' DATA ANALYSIS ', <br><br>
-
+<br><center> I'm interested in  ' DATA ANALYSIS ', <br><br>
 
 CURRENTLY LEARNING about.. <br><br>
 <img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=3776AB">
@@ -24,7 +23,8 @@ LET ME SHOW YOU, <br><br>
 <a href="https://www.instagram.com/kakooyeochi" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/></a>
 <a href="https://www.facebook.com/Kakooyeochi" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-0866FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a>
 <a href="mailto:kakoo3508@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kakoo3508@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FAF0E6"/></a>
-<br><br>
+<br><br> </center>
+
 
 
 <!--
