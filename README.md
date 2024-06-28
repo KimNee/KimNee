@@ -1,10 +1,10 @@
 ## Hi there 👋
 ![image](https://i.imgur.com/V0dEfab.png)
 
-<br><center> I'm interested in  ' DATA ANALYSIS ', <br><br>
+<br><br><center> I'm interested in  ' DATA ANALYSIS ', <center> <br><br>
 
 CURRENTLY LEARNING about.. <br><br>
-<img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=3776AB">
+<center><img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=3776AB"></center>
 <img src="https://img.shields.io/badge/TABLEAU-FAF0E6?style=for-the-badge&logo=tableau&logoColor=E97627">
 <img src="https://img.shields.io/badge/GEOPANDAS-139C5A?style=for-the-badge&logo=Geopandas&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=python&logoColor=FFFFFF">
