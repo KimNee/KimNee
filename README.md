@@ -1,4 +1,6 @@
 ## Hi there 👋
+<div align="center">
+  
 ![image](https://i.imgur.com/V0dEfab.png)
 
 <br><br> I'm interested in  ' DATA ANALYSIS ', <br><br>
@@ -24,7 +26,7 @@ LET ME SHOW YOU, <br><br>
 <a href="https://www.facebook.com/Kakooyeochi" target="_blank"><img src="https://img.shields.io/badge/FACEBOOK-0866FF?style=for-the-badge&logo=Facebook&logoColor=FFFFFF"/></a>
 <a href="mailto:kakoo3508@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kakoo3508@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=FAF0E6"/></a>
 <br><br>
-
+</div>
 
 <!--
 **KimNee/KimNee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
