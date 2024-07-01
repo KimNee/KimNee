@@ -3,7 +3,7 @@
   
 ![image](https://i.imgur.com/V0dEfab.png)
 
-<br><br> I'm interested in  ' DATA ANALYSIS ', <br><br>
+<br><br>**I'm interested in  'DATA ANALYSIS',** <br><br>
 
 CURRENTLY LEARNING about.. <br><br>
 <img src="https://img.shields.io/badge/PYTHON-FFD700?style=for-the-badge&logo=python&logoColor=3776AB">
